@@ -2,7 +2,6 @@
 
 Interactive professional website for **Dr Gopikrishnan Palanivel**, M.B.B.S., M.D. (Anaesthesiology),
 M.B.A. (Healthcare & Hospital Management) — Specialist Anaesthesiologist & Intensivist, Chennai, India.
-DHA registered for specialist anaesthesia practice in Dubai.
 
 ## Live site
 
